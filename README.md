@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohitGarudkar/leetcode/tree/master/0001-two-sum) |
+| [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RohitGarudkar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RohitGarudkar/leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RohitGarudkar/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -30,5 +32,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RohitGarudkar/leetcode/tree/master/1927-sum-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
