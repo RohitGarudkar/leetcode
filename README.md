@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohitGarudkar/leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/RohitGarudkar/leetcode/tree/master/0088-merge-sorted-array) |
 | [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RohitGarudkar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RohitGarudkar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -65,5 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RohitGarudkar/leetcode/tree/master/0088-merge-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RohitGarudkar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/RohitGarudkar/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
