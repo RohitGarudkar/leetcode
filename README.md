@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RohitGarudkar/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/RohitGarudkar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/RohitGarudkar/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0835-image-overlap](https://github.com/RohitGarudkar/leetcode/tree/master/0835-image-overlap) |
 | [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RohitGarudkar/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RohitGarudkar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/RohitGarudkar/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/RohitGarudkar/leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
