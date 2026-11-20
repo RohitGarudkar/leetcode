@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RohitGarudkar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RohitGarudkar/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RohitGarudkar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RohitGarudkar/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RohitGarudkar/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RohitGarudkar/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RohitGarudkar/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RohitGarudkar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RohitGarudkar/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/RohitGarudkar/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RohitGarudkar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitGarudkar/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/RohitGarudkar/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sorting
 |  |
 | ------- |
