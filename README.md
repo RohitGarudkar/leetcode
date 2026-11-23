@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RohitGarudkar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/RohitGarudkar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0835-image-overlap](https://github.com/RohitGarudkar/leetcode/tree/master/0835-image-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RohitGarudkar/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RohitGarudkar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RohitGarudkar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RohitGarudkar/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RohitGarudkar/leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RohitGarudkar/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RohitGarudkar/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RohitGarudkar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RohitGarudkar/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -207,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RohitGarudkar/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RohitGarudkar/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RohitGarudkar/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
