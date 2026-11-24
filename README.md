@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RohitGarudkar/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RohitGarudkar/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RohitGarudkar/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RohitGarudkar/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RohitGarudkar/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RohitGarudkar/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RohitGarudkar/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/RohitGarudkar/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/RohitGarudkar/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RohitGarudkar/leetcode/tree/master/1927-sum-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RohitGarudkar/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RohitGarudkar/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RohitGarudkar/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RohitGarudkar/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RohitGarudkar/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RohitGarudkar/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RohitGarudkar/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RohitGarudkar/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RohitGarudkar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RohitGarudkar/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RohitGarudkar/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
@@ -218,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/RohitGarudkar/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RohitGarudkar/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
